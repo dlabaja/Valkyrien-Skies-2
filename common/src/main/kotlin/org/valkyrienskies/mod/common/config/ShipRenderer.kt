@@ -9,4 +9,4 @@ enum class ShipRenderer {
 }
 
 val ClientShip.shipRenderer: ShipRenderer
-    get() = settings.renderer ?: VSGameConfig.CLIENT.defaultRenderer
+    get() = ShipRenderer.VANILLA

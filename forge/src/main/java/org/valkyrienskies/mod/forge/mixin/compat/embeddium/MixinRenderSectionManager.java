@@ -14,8 +14,7 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;
-import org.valkyrienskies.mod.mixinducks.mod_compat.embeddium.RenderSectionManagerDuck;
-
+import org.valkyrienskies.mod.mixinducks.mod_compat.embedium.RenderSectionManagerDuck;
 
 @Mixin(value = RenderSectionManager.class, remap = false)
 public class MixinRenderSectionManager {

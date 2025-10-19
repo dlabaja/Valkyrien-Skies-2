@@ -20,11 +20,11 @@ import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import org.valkyrienskies.core.api.ships.ClientShip;
 import org.valkyrienskies.mod.common.VSGameUtilsKt;
-import org.valkyrienskies.mod.mixinducks.mod_compat.embeddium.RenderSectionManagerDuck;
 
 import java.util.ArrayDeque;
 import java.util.Map;
 import java.util.WeakHashMap;
+import org.valkyrienskies.mod.mixinducks.mod_compat.embedium.RenderSectionManagerDuck;
 
 /**
  * Hi! Not many people read Valkyrien Skies' code, and even fewer will read this particular file. If you're
