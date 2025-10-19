@@ -115,8 +115,6 @@
     "mod_compat.sodium.MixinDefaultChunkRenderer",
     "mod_compat.sodium.MixinRenderSectionManager",
     "mod_compat.sodium.MixinSodiumWorldRenderer",
-    "mod_compat.embeddium.MixinChunkTracker",
-    "mod_compat.embeddium.MixinDefaultChunkRenderer",
     "mod_compat.embeddium.MixinRenderSectionManager",
     "mod_compat.embeddium.MixinSodiumWorldRenderer",
     "mod_compat.sound_physics_remastered.MixinSoundPhysics",
